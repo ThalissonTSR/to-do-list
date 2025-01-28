@@ -1,3 +1,9 @@
+@media only screen and (max-width:800px){
+    body{
+        max-width: 200px;
+    }
+}
+
 body{
     background-color: #201c1c;
     max-width: 500px;
